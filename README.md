@@ -27,24 +27,35 @@ In order to show how various offline motion planning algorithms works, I am also
 ## Simulation Output
 
 ### Uniform Cost Search:
+
 ![alt text](https://github.com/shailendranpoyyamozhi/Motionplanning_Vrep/blob/main/Output%20images/UCS.png)
 
 ### Dijkstra:
+
 ![alt text](https://github.com/shailendranpoyyamozhi/Motionplanning_Vrep/blob/main/Output%20images/djikstra.png)
 
 ### A*:
+
 ![alt text](https://github.com/shailendranpoyyamozhi/Motionplanning_Vrep/blob/main/Output%20images/astar.png)
 
 ### PRM Planner:
+
 PRM points
+
 ![alt text](https://github.com/shailendranpoyyamozhi/Motionplanning_Vrep/blob/main/Output%20images/prm_points.png)
+
 PRM construction
+
 ![alt text](https://github.com/shailendranpoyyamozhi/Motionplanning_Vrep/blob/main/Output%20images/prm_cons.png)
+
 PRM with A*
+
 ![alt text](https://github.com/shailendranpoyyamozhi/Motionplanning_Vrep/blob/main/Output%20images/prm.png)
 
 ### RRT:
+
 ![alt text](https://github.com/shailendranpoyyamozhi/Motionplanning_Vrep/blob/main/Output%20images/RRT.png)
 
 ### RRT*:
+
 ![alt text](https://github.com/shailendranpoyyamozhi/Motionplanning_Vrep/blob/main/Output%20images/RRT*.png)
